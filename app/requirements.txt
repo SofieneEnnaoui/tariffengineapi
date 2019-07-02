@@ -1,0 +1,14 @@
+memory_profiler==0.55.0
+numpy==1.16.2
+connexion[swagger-ui]==2.2.0
+tornado==6.0.2
+redis==3.2.1
+scikit-learn==0.20.3
+pandas==0.24.2
+numba==0.43.1
+fastapi==0.13.0
+uvicorn==0.6.1
+scipy==1.2.1
+networkx==2.3
+matplotlib==3.0.3
+cython
