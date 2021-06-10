@@ -6,7 +6,7 @@ redis==3.2.1
 scikit-learn==0.20.3
 pandas==0.24.2
 numba==0.43.1
-fastapi==0.13.0
+fastapi==0.65.2
 uvicorn==0.6.1
 scipy==1.2.1
 networkx==2.3
